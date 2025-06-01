@@ -1,0 +1,36 @@
+{
+  "feeds": [
+    {
+      "name": "The Ringer – The Big Picture",
+      "url": "https://feeds.megaphone.fm/the-big-picture"
+    },
+    {
+      "name": "NYT – The Daily",
+      "url": "https://feeds.simplecast.com/Sl5CSM3S"
+    },
+    {
+      "name": "Reuters – World News",
+      "url": "https://feeds.megaphone.fm/GLT2692904921"
+    },
+    {
+      "name": "Al Jazeera – The Take",
+      "url": "https://feeds.megaphone.fm/GLT2692904720"
+    },
+    {
+      "name": "Hard Fork",
+      "url": "https://feeds.simplecast.com/6HKOhNgS"
+    },
+    {
+      "name": "The New Yorker Radio Hour",
+      "url": "https://feeds.simplecast.com/54nAGcIl"
+    },
+    {
+      "name": "NYT – The Headlines",
+      "url": "https://rss.art19.com/nyt-headlines"
+    },
+    {
+      "name": "The Ringer – The Press Box",
+      "url": "https://feeds.megaphone.fm/the-press-box"
+    }
+  ]
+}
