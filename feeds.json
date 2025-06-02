@@ -1,6 +1,10 @@
 {
   "feeds": [
     {
+      "name": "Silent Stub",
+      "url": "https://jhkeller.github.io/custom-podcast-feed/silent.xml"
+    },
+    {
       "name": "The Ringer – The Big Picture",
       "url": "https://feeds.megaphone.fm/the-big-picture"
     },
@@ -31,6 +35,79 @@
     {
       "name": "The Ringer – The Press Box",
       "url": "https://feeds.megaphone.fm/the-press-box"
+    },
+    {
+      "name": "The Asia Chessboard",
+      "url": "http://feeds.feedburner.com/AsiaChessboard"
+    },
+    {
+      "name": "The Diplomat - Beyond the Mekong",
+      "url": "https://thediplomat.com/?feed=itunes&podcast=beyond-the-mekong"
+    },
+    {
+      "name": "The Besties",
+      "url": "https://feeds.simplecast.com/Urk3897_"
+    },
+    {
+      "name": "China Global South",
+      "url": "https://feeds.libsyn.com/500733/rss"
+    },
+    {
+      "name": "China Power",
+      "url": "https://feeds.megaphone.fm/CSIS6301448962"
+    },
+    {
+      "name": "The Intercept",
+      "url": "https://rss.acast.com/intercepted-with-jeremy-scahill"
+    },
+    {
+      "name": "The Journal",
+      "url": "https://video-api.wsj.com/podcast/rss/wsj/the-journal"
+    },
+    {
+      "name": "Late Night Linux",
+      "url": "https://latenightlinux.com/feed/mp3"
+    },
+    {
+      "name": "Night Owls",
+      "url": "http://feeds.libsyn.com/497798/rss"
+    },
+    {
+      "name": "Playbook Deepdive",
+      "url": "https://feeds.megaphone.fm/ASD7844263268"
+    },
+    {
+      "name": "Prestige TV",
+      "url": "https://feeds.simplecast.com/Sl5CSM3S"
+    },
+    {
+      "name": "Southeast Asia Radio",
+      "url": "https://feeds.megaphone.fm/southeastasiaradio"
+    },
+    {
+      "name": "Straight Talk Southeast Asia",
+      "url": "https://www.spreaker.com/show/5783676/episodes/feed"
+    },
+    {
+      "name": "The Town",
+      "url": "https://feeds.megaphone.fm/the-town-with-matthew-belloni"
+    },
+    {
+      "name": "Amateur Traveler",
+      "url": "https://feeds.megaphone.fm/GLSS1857986358"
+    },
+    {
+      "name": "The Truth of the Matter",
+      "url": "https://feeds.simplecast.com/Sl5CSM3S"
+    },
+    {
+      "name": "The Vietnam Weekly Podcast",
+      "url": "https://feeds.simplecast.com/Sl5CSM3S"
+    },
+    {
+      "name": "The Watch",
+      "url": "https://feeds.simplecast.com/Sl5CSM3S"
     }
+
   ]
 }
